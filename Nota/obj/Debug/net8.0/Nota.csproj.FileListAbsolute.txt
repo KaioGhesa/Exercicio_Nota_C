@@ -1,0 +1,14 @@
+C:\Curso Udemy\Nota\bin\Debug\net8.0\Nota.exe
+C:\Curso Udemy\Nota\bin\Debug\net8.0\Nota.deps.json
+C:\Curso Udemy\Nota\bin\Debug\net8.0\Nota.runtimeconfig.json
+C:\Curso Udemy\Nota\bin\Debug\net8.0\Nota.dll
+C:\Curso Udemy\Nota\bin\Debug\net8.0\Nota.pdb
+C:\Curso Udemy\Nota\obj\Debug\net8.0\Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Nota\obj\Debug\net8.0\Nota.AssemblyInfoInputs.cache
+C:\Curso Udemy\Nota\obj\Debug\net8.0\Nota.AssemblyInfo.cs
+C:\Curso Udemy\Nota\obj\Debug\net8.0\Nota.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Nota\obj\Debug\net8.0\Nota.dll
+C:\Curso Udemy\Nota\obj\Debug\net8.0\refint\Nota.dll
+C:\Curso Udemy\Nota\obj\Debug\net8.0\Nota.pdb
+C:\Curso Udemy\Nota\obj\Debug\net8.0\Nota.genruntimeconfig.cache
+C:\Curso Udemy\Nota\obj\Debug\net8.0\ref\Nota.dll
